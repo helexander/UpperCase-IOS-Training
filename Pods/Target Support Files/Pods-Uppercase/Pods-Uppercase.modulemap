@@ -1,0 +1,6 @@
+framework module Pods_Uppercase {
+  umbrella header "Pods-Uppercase-umbrella.h"
+
+  export *
+  module * { export * }
+}

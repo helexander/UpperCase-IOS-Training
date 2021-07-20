@@ -1,0 +1,6 @@
+framework module Pods_UppercaseTests {
+  umbrella header "Pods-UppercaseTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
